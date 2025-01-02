@@ -1,4 +1,4 @@
-## Sobre mi
+## Sobre mí
 
 Bachiller de la UNMSM de la carrera de Matemática ocupando el 5to superior.
 
