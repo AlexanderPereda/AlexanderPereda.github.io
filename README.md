@@ -30,13 +30,13 @@ Me he especializado con cursos de Machine Learning, Data Science, Analytics, ent
 Se realizó un análisis exploratorio de datos (EDA) para encontrar un patrón en la conducta del peruano ante un malestar o enfermedad.
 Se utilizo como datos primarios la Encuesta Nacional de Hogares 2023 (Enaho).
 
-![Grafico de barras](/assets/img/barras.png)
+![Grafico de barras](assets/img/barras.png)
 
 ### [Classification of cell phones according to price](https://github.com/AlexanderPereda/Alexander-Pereda-Projects/blob/main/Cell%20phone%20price%20ranking%20with%20SVM.ipynb)
 
 Se desarrolló un clasificador que categorizara los celulares en 4 clases. Trabajamos los datos con limpieza y exploración, para luego entrenar un modelo de Support Vector Machine, el cual fue optimizado dando un accuracy elevado.
 
-![Bike Study](/assets/img/celphones.png)
+![Bike Study](assets/img/celphones.png)
 
 ### [Probability of suffering a stroke using Random Forest](https://github.com/AlexanderPereda/Alexander-Pereda-Projects/blob/main/Probability%20of%20suffering%20a%20stroke%20using%20Random%20Forest.ipynb)
 
