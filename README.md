@@ -20,6 +20,7 @@ Me he especializado con cursos de Machine Learning, Data Science, Analytics, ent
   - Matemática pura - Facultad de Ciencias Matemáticas
 
 - Escuela Nacional de Estadística e Informática (2024)
+
   - Programa de Extensión Universitaria Ciencia del Dato – INEI
 
 ## Proyectos
