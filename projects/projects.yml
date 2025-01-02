@@ -1,0 +1,28 @@
+- title: ¿A DÓNDE ACUDE UN PERUANO CUANDO SE ENFERMA?
+  path: https://alexanderpereda.github.io/enaho-23-400-salud/main.html
+  image: images/map.png
+  description: >
+    Este proyecto busca encontrar un patrón de conducta de la población peruana ante un malestar 
+    o enfermedad. Se trabajó con la ENAHO 2023, segmentando a la población en 4 grupos geográficos y
+    diseñando organizadores visuales apropiados para resumir las conclusiones.
+    
+  categories: [R, Statistics, Data Cleaning, Data Visualization, Surveys]
+
+- title: CELL PHONE PRICE RANKING WITH SVM
+  path: https://github.com/AlexanderPereda/Alexander-Pereda-Projects/blob/main/Cell%20phone%20price%20ranking%20with%20SVM.ipynb
+  image: images/celphones.png
+  description: >
+    ¿Que características hace que un teléfono aumente o disminuya su valor?
+    En este proyecto buscamos dichos features, luego implementamos un algoritmo Support Vector Machine
+    para categorizar los elementos en un ranking según su precio, y finalmente optimizamos el modelo.
+  categories: [Python, Machine Learning, SVM, Data Cleaning, Segmentation, Optimization]
+
+- title: PROBABILITY OF SUFFERING A STROKE USING RANDOM FOREST
+  path: https://github.com/AlexanderPereda/Alexander-Pereda-Projects/blob/main/Probability%20of%20suffering%20a%20stroke%20using%20Random%20Forest.ipynb
+  image: images/stroke.jpg
+  description: >
+    Los accidentes cerebrovasculares son un mal continuo en toda la población, y su prevención
+    es una tarea que no se debe descuidar. En este proyecto abordamos esa problemática y con un algoritmo
+    de Random Forest buscamos ver que pacientes son más propensos o no a tener un *stroke*.
+  categories: [Python, Machine Learning, Data Cleaning, Random Forest, Optimization]
+  

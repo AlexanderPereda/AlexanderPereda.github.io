@@ -1,0 +1,12 @@
+---
+title: Listado de proyectos
+author: Alexander Pereda
+listing:
+  contents: projects.yml
+  type: default
+  max-description-length: 300
+  sort-ui: false
+  filter-ui: false
+  categories: true
+---
+

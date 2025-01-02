@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alexander Pereda",
+    "section": "",
+    "text": "Bachiller de la UNMSM en la carrera de Matemáticas, ocupando el 5to superior.\nHe realizado cursos especializados en Machine Learning, Data Science, Analytics, entre otros. Además, cuento con habilidades blandas como comunicación asertiva, trabajo en equipo y proactividad."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Alexander Pereda",
+    "section": "Education",
+    "text": "Education\nUniversidad Nacional Mayor de San Marcos | Lima, Perú\n\nBachiller en Ciencias Matemáticas | Mar 2013 - Dec 2022"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Alexander Pereda",
+    "section": "Experience",
+    "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Alexander Pereda",
+    "section": "",
+    "text": "Bachiller de la UNMSM en la carrera de Matemáticas, ocupando el 5to superior.\nHe realizado cursos especializados en Machine Learning, Data Science, Analytics, entre otros. Además, cuento con habilidades blandas como comunicación asertiva, trabajo en equipo y proactividad, entre otras."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Listado de proyectos",
+    "section": "",
+    "text": "¿A DÓNDE ACUDE UN PERUANO CUANDO SE ENFERMA?\n\n\n\n\n\n\nR\n\n\nStatistics\n\n\nData Cleaning\n\n\nData Visualization\n\n\nSurveys\n\n\n\nEste proyecto busca encontrar un patrón de conducta de la población peruana ante un malestar o enfermedad. Se trabajó con la ENAHO 2023, segmentando a la población en 4 grupos geográficos y diseñando organizadores visuales apropiados para resumir las conclusiones. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCELL PHONE PRICE RANKING WITH SVM\n\n\n\n\n\n\nPython\n\n\nMachine Learning\n\n\nSVM\n\n\nData Cleaning\n\n\nSegmentation\n\n\nOptimization\n\n\n\n¿Que características hace que un teléfono aumente o disminuya su valor? En este proyecto buscamos dichos features, luego implementamos un algoritmo Support Vector Machine para categorizar los elementos en un ranking según su precio, y finalmente optimizamos el modelo. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPROBABILITY OF SUFFERING A STROKE USING RANDOM FOREST\n\n\n\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\nRandom Forest\n\n\nOptimization\n\n\n\nLos accidentes cerebrovasculares son un mal continuo en toda la población, y su prevención es una tarea que no se debe descuidar. En este proyecto abordamos esa problemática y con un algoritmo de Random Forest buscamos ver que pacientes son más propensos o no a tener un stroke. \n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Alexander Pereda",
+    "section": "Contact",
+    "text": "Contact\n\n : alexanderperedaescante@gmail.com\n : Alexander Pereda\n : Alexander Pereda"
+  },
+  {
+    "objectID": "index.html#cursos",
+    "href": "index.html#cursos",
+    "title": "Alexander Pereda",
+    "section": "Cursos",
+    "text": "Cursos\n\nPrograma de Extensión Universitaria Ciencia del Dato | INEI\n\nCurso de especialización de 210 horas de duración donde se abordaron los tópicos de: Machine Learning, Deep Learning, Fundamentos de la Ciencia de Datos, Ingeniería Estadística, Estimación Estadística, y un Proyecto Integrador.\n\nMachine Learning Inmersion with Python | DMC\nMachine Learning con Scikit Learn | Platzi"
+  },
+  {
+    "objectID": "index.html#sobre-mí",
+    "href": "index.html#sobre-mí",
+    "title": "Alexander Pereda",
+    "section": "",
+    "text": "Bachiller de la UNMSM en la carrera de Matemáticas, ocupando el 5to superior.\nHe realizado cursos especializados en Machine Learning, Data Science, Analytics, entre otros. Además, cuento con habilidades blandas como comunicación asertiva, trabajo en equipo y proactividad."
+  },
+  {
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
+    "title": "Alexander Pereda",
+    "section": "Educación",
+    "text": "Educación\nUniversidad Nacional Mayor de San Marcos | Lima, Perú\n\nBachiller en Ciencias Matemáticas | Mar 2013 - Dec 2022"
+  },
+  {
+    "objectID": "index.html#contacto",
+    "href": "index.html#contacto",
+    "title": "Alexander Pereda",
+    "section": "Contacto",
+    "text": "Contacto\n\n : alexanderperedaescalante@gmail.com\n : Alexander Pereda\n : Alexander Pereda"
+  },
+  {
+    "objectID": "index.html#experiencia",
+    "href": "index.html#experiencia",
+    "title": "Alexander Pereda",
+    "section": "Experiencia",
+    "text": "Experiencia\n\nAsistente de cátedra de Matemática | UNMSM\nAuxiliar de facturación | TAWA\nProfesor de Matemáticas nivel universitario"
+  },
+  {
+    "objectID": "index.html#proyectos",
+    "href": "index.html#proyectos",
+    "title": "Alexander Pereda",
+    "section": "Proyectos",
+    "text": "Proyectos\nPara ver mis proyectos realizados ve al siguiente enlace."
+  }
+]
