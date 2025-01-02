@@ -47,5 +47,12 @@
     "title": "Alexander Pereda",
     "section": "Contacto",
     "text": "Contacto\n\n : alexanderperedaescalante@gmail.com\n : Alexander Pereda\n : Alexander Pereda"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Listado de proyectos",
+    "section": "",
+    "text": "¿A DÓNDE ACUDE UN PERUANO CUANDO SE ENFERMA?\n\n\n\n\n\n\nR\n\n\nStatistics\n\n\nData Cleaning\n\n\nData Visualization\n\n\nSurveys\n\n\n\nEste proyecto busca encontrar un patrón de conducta de la población peruana ante un malestar o enfermedad. Se trabajó con la ENAHO 2023, segmentando a la población en 4 grupos geográficos y diseñando organizadores visuales apropiados para resumir las conclusiones. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCELL PHONE PRICE RANKING WITH SVM\n\n\n\n\n\n\nPython\n\n\nMachine Learning\n\n\nSVM\n\n\nData Cleaning\n\n\nSegmentation\n\n\nOptimization\n\n\n\n¿Que características hace que un teléfono aumente o disminuya su valor? En este proyecto buscamos dichos features, luego implementamos un algoritmo Support Vector Machine para categorizar los elementos en un ranking según su precio, y finalmente optimizamos el modelo. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPROBABILITY OF SUFFERING A STROKE USING RANDOM FOREST\n\n\n\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Cleaning\n\n\nRandom Forest\n\n\nOptimization\n\n\n\nLos accidentes cerebrovasculares son un mal continuo en toda la población, y su prevención es una tarea que no se debe descuidar. En este proyecto abordamos esa problemática y con un algoritmo de Random Forest buscamos ver que pacientes son más propensos o no a tener un stroke. \n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

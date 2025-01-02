@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Home"
-  open-graph: true # 
+  open-graph: true
   page-footer: "Made with Quarto"
   navbar:
     left:
@@ -17,11 +17,10 @@ website:
         target: "_blank"
       - icon: github
         href: https://github.com/AlexanderPereda
-        target: "_blank" 
+        target: "_blank"
 format:
   html:
     mainfont: "roboto"
     theme:
       light: minimal
       dark: darkly
-

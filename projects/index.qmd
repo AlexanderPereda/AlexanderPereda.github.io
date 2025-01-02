@@ -1,6 +1,7 @@
 ---
 title: Listado de proyectos
 author: Alexander Pereda
+output-dir: docs
 listing:
   contents: projects.yml
   type: default
