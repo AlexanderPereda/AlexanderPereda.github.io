@@ -6,22 +6,30 @@ Me he especializado con cursos de Machine Learning, Data Science, Analytics, ent
 
 ## Tecnologías y Herramientas
 
-- Lenguajes
-  - Python | R | SQL
-- Visualización
-  - Power BI
-- Otros
-  - Quarto | Git
+### Lenguajes
+
+- Python
+- R
+- SQL
+
+### Visualización
+
+- Power BI
+
+### Otros
+
+- Quarto
+- Git
 
 ## Educación
 
-- Universidad Nacional Mayor de San Marcos (2013 - 2022)
+### Universidad Nacional Mayor de San Marcos (2013 - 2022)
 
-  - Matemática pura - Facultad de Ciencias Matemáticas
+- Matemática pura - Facultad de Ciencias Matemáticas
 
-- Escuela Nacional de Estadística e Informática (2024)
+### Escuela Nacional de Estadística e Informática (2024)
 
-  - Programa de Extensión Universitaria Ciencia del Dato – INEI
+- Programa de Extensión Universitaria Ciencia del Dato – INEI
 
 ## Proyectos
 
