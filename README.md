@@ -25,11 +25,11 @@ Me he especializado con cursos de Machine Learning, Data Science, Analytics, ent
 
 ### Universidad Nacional Mayor de San Marcos (2013 - 2022)
 
-- Matemática pura - Facultad de Ciencias Matemáticas
+- Matemática pura | Facultad de Ciencias Matemáticas
 
 ### Escuela Nacional de Estadística e Informática (2024)
 
-- Programa de Extensión Universitaria Ciencia del Dato – INEI
+- Programa de Extensión Universitaria Ciencia del Dato
 
 ## Proyectos
 
